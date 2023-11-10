@@ -1,0 +1,14 @@
+C:\Users\Samsung\Documents\Desafios DIO\trilha-net-testes-unitarios-tdd\Calculadora\bin\Debug\net7.0\Calculadora.exe
+C:\Users\Samsung\Documents\Desafios DIO\trilha-net-testes-unitarios-tdd\Calculadora\bin\Debug\net7.0\Calculadora.deps.json
+C:\Users\Samsung\Documents\Desafios DIO\trilha-net-testes-unitarios-tdd\Calculadora\bin\Debug\net7.0\Calculadora.runtimeconfig.json
+C:\Users\Samsung\Documents\Desafios DIO\trilha-net-testes-unitarios-tdd\Calculadora\bin\Debug\net7.0\Calculadora.dll
+C:\Users\Samsung\Documents\Desafios DIO\trilha-net-testes-unitarios-tdd\Calculadora\bin\Debug\net7.0\Calculadora.pdb
+C:\Users\Samsung\Documents\Desafios DIO\trilha-net-testes-unitarios-tdd\Calculadora\obj\Debug\net7.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samsung\Documents\Desafios DIO\trilha-net-testes-unitarios-tdd\Calculadora\obj\Debug\net7.0\Calculadora.AssemblyInfoInputs.cache
+C:\Users\Samsung\Documents\Desafios DIO\trilha-net-testes-unitarios-tdd\Calculadora\obj\Debug\net7.0\Calculadora.AssemblyInfo.cs
+C:\Users\Samsung\Documents\Desafios DIO\trilha-net-testes-unitarios-tdd\Calculadora\obj\Debug\net7.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Documents\Desafios DIO\trilha-net-testes-unitarios-tdd\Calculadora\obj\Debug\net7.0\Calculadora.dll
+C:\Users\Samsung\Documents\Desafios DIO\trilha-net-testes-unitarios-tdd\Calculadora\obj\Debug\net7.0\refint\Calculadora.dll
+C:\Users\Samsung\Documents\Desafios DIO\trilha-net-testes-unitarios-tdd\Calculadora\obj\Debug\net7.0\Calculadora.pdb
+C:\Users\Samsung\Documents\Desafios DIO\trilha-net-testes-unitarios-tdd\Calculadora\obj\Debug\net7.0\Calculadora.genruntimeconfig.cache
+C:\Users\Samsung\Documents\Desafios DIO\trilha-net-testes-unitarios-tdd\Calculadora\obj\Debug\net7.0\ref\Calculadora.dll
